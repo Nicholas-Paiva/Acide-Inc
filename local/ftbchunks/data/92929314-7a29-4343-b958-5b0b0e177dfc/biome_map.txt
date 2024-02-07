@@ -1,0 +1,11 @@
+#556 minecraft:beach
+#47F minecraft:birch_forest
+#420 biomesoplenty:clover_patch
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#2D6 minecraft:meadow
+#515 biomesoplenty:mystic_grove
+#4F1 minecraft:ocean
+#698 biomesoplenty:redwood_forest
+#5FF minecraft:river
+#2CF biomesoplenty:shrubland
